@@ -1,0 +1,23 @@
+// --------------------------------
+// colors
+$blue              : #25408f;
+$red               : #ed1c24;
+$green             : #00B233;
+$grey-base         : #555555;
+$grey-light        : #ebebeb;
+$grey-medium       : #dadada;
+$grey-dark         : #636363;
+$grey-button-border: #b7b7b7;
+$white             : #ffffff;
+$black             : #000000;
+
+// size units
+$unit: 20px;
+
+//
+.btn-primary {
+	border-width: 2px;
+}
+
+$speed: 250ms;
+$easing: ease-out;
