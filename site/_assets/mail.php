@@ -11,8 +11,7 @@
 	$formcontent = "Name: $name \n\nPhone: $phone \n\nEmail: $email \n\nCategories: $category \n\nComments: $comments";
 
 
-	$recipient = "isral@stundesign.com";
-	// $recipient = "l.gavel@ficllc.net";
+	$recipient = "user@domain.com";
 
 	
 	$subject = "Contact Form Message";

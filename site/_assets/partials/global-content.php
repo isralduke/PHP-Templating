@@ -1,7 +1,8 @@
 <?php
 
-	$sitetitle = "Financial Insurance Consultants, LLC";
-	$sitephone = "(888) 893-7269";
-	$sitetel   = "888-893-7269";
+	$sitetitle = "Company Name, LLC";
+	$sitedescription = " is in business to give our clients great service.";
+	$sitetel   = "888-888-888";
+	$logofile  = "logo-file.svg"
 
 ?>

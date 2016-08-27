@@ -1,0 +1,1 @@
+<img class="imgright" src="/_assets/img/whatwedo_pic.png" border="0">
