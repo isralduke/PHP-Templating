@@ -414,105 +414,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_assets\/img\/fic_aboutus_banner.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 207223,
-		"inputAbbreviatedPath": "\/_assets\/img\/fic_aboutus_banner.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fic_aboutus_banner.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/fic_products_services_banner.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 563370,
-		"inputAbbreviatedPath": "\/_assets\/img\/fic_products_services_banner.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fic_products_services_banner.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/header-photo-inner-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 418140,
-		"inputAbbreviatedPath": "\/_assets\/img\/header-photo-inner-1.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/header-photo-inner-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/header-photo-inner-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 91885,
-		"inputAbbreviatedPath": "\/_assets\/img\/header-photo-inner-2.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/header-photo-inner-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/home-banner-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 364582,
-		"inputAbbreviatedPath": "\/_assets\/img\/home-banner-1.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/home-banner-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/photo-overlay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38990,
-		"inputAbbreviatedPath": "\/_assets\/img\/photo-overlay.png",
-		"outputAbbreviatedPath": "\/_assets\/img\/photo-overlay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/img\/water-sky-footer.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 267314,
-		"inputAbbreviatedPath": "\/_assets\/img\/water-sky-footer.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/water-sky-footer.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/js\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_assets\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/_assets\/js\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_assets\/js\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_assets\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/_assets\/js\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_assets\/js\/happy.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -530,28 +431,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/js\/jquery.ajaxform.js",
 		"outputAbbreviatedPath": "\/_assets\/js\/min\/jquery.ajaxform-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_assets\/js\/lightgallery.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_assets\/js\/lightgallery.min.js",
-		"outputAbbreviatedPath": "\/_assets\/js\/min\/lightgallery.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_assets\/js\/min\/scripts-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_assets\/js\/min\/scripts-min.js",
-		"outputAbbreviatedPath": "\/_assets\/js\/min\/min\/scripts-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -837,15 +716,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/products\/index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/readme.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/readme.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
