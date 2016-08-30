@@ -25,6 +25,4 @@ The `index.php` files contain variable definitions — feel free to add or remov
 
 It's not a complicated system at all but it's helped me start on smaller projects more quickly.
 
-Tell me what you think, [@isralduke](https://twitter.com/isralduke) or make it better with a pull request.
-
-
+<a href="https://twitter.com/isralduke" target="_blank">Tell me what you think</a> or make it better with a pull request.</a>
