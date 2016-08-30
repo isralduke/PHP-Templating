@@ -4,7 +4,7 @@ This is a simple PHP-based templating system for flat, static sites. It allows m
 
 ##Usage
 
-Pages are added by adding a folder named for the slug you want for the page. Inside of that folder is an `index.php` file which contains instructions and some variable data such as the page title. See `/about` for an example.
+Pages are added by adding a folder named for the slug you want for the page. Inside of that folder is an `index.php` file which contains instructions and some variable data such as the page title. See the example pages for a better idea.
 
 In this `index.php` file is:
 
